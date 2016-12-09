@@ -1,0 +1,116 @@
+#container{
+  background-image: url("../image/payments-banner-graphic.png");
+  height:400px;
+  width:auto;
+  color:white;
+}
+#caca{
+  display:inline-flex;
+}
+#caca2{
+  padding-top:10px;
+}
+.navbar{
+background-color:transparent;
+border:none;
+}
+ a{
+   color:white !important;
+ }
+#icon{
+  margin-top:30px;
+  border-right:1px solid #cbd1cd;
+}
+#icon2{
+  margin-top:30px;
+  border-right:1px solid #cbd1cd;
+}
+#icon1{
+  margin-top:30px;
+}
+#container2{
+  background-color: #b4f0e9;
+}
+#titre{
+  margin-top:70px;
+}
+#dol{
+  color:blue;
+  text-align:center;
+  font-size:2em;
+  position:relative;
+  top:30px;
+}
+small{
+  color:grey
+}
+#container3{
+  background-color: #343d3d;
+  color:white;
+  margin:auto;
+}
+#droit{
+  background-color: #66aee8;
+}
+#image1{
+  border-radius: 10px  10px 10px;
+  margin-top:30px;
+}
+#titre2{
+  margin-top:150px;
+}
+.gauche,#gauche2{
+  width:300px;
+  margin:auto;
+}
+
+#droit1{
+  background-color: #924de0;
+}
+#ecran div
+{
+  height:450px;
+  overflow: hidden;
+}
+#titre3{
+  margin-top:50px;
+}
+#container5{
+  border-top:1px solid #e2d8df;
+}
+
+#button{
+  background-color: green;
+  color:white;
+  margin-bottom:40px;
+}
+li{
+  list-style: none;
+}
+.footer{
+overflow: hidden;
+}
+#proute{
+  background-color: black;
+  top:50px;
+}
+.proute2{
+
+  text-align:center;
+  }
+.grand{
+  color:#dee4f1;
+  margin-bottom:50px;
+  margin-top:50px;
+
+
+}
+#fin{
+  width:600px;
+  margin:auto;
+  /*padding-left: 16%;*/
+}
+#fin2{
+
+
+}
